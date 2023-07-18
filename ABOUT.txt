@@ -1,0 +1,11 @@
+Nowadays, HTML is used everywhere. The updated and beautiful HTML standard offers online users and developers improved capabilities. 
+HTML has taken the position of HTML, XHTML, CSS, and HTML DOM Level 2. 
+It was designed to communicate abundance without the need of exclusive technologies or extra factors.
+The user may access everything through the increased power of HTML, including animation, images, music, and movies. 
+It can also be used to create complex online applications and supports cross-platform. 
+HTML enables the creation of in-browser real-time collaborations, which reduces the workload for web developers. 
+The web is a resource that may be used consistently and broadly on numerous platforms.
+Some businesses have created cutting-edge technologies that offer greater usability than web standards, like the capacity to create rich internet apps.
+Offer the newest platforms for running web applications. The goal of W3C's most recent HTML research is to provide a standard that can accomplish all the functions currently carried out by popular technologies. With the help of the online Hypertext Application Technology Working Group (WHATWG), W3C is establishing HTML as a standard that enables users and developers to improve functionality without heavily relying on external plug-ins, in order to increase online openness and platform independence. 
+A new HTML standard called HTML5 enables us to create dynamic, interactive web pages, integrating HTML into the 2004-launched application development industry. 
+With the introduction of audio, video, and animations, HTML expands beyond simply reporting the fundamentals of a text-based web to also include offline.
